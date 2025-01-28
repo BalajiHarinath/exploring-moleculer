@@ -1,2 +1,2 @@
 # exploring-moleculer
-Trying molecular js
+Exploring Moleculer.js
