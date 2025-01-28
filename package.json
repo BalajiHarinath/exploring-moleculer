@@ -1,0 +1,27 @@
+{
+  "name": "exploring-moleculer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalajiHarinath/exploring-moleculer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalajiHarinath/exploring-moleculer/issues"
+  },
+  "homepage": "https://github.com/BalajiHarinath/exploring-moleculer#readme",
+  "dependencies": {
+    "moleculer": "^0.14.35",
+    "moleculer-web": "^0.10.7",
+    "nats": "^2.29.1",
+    "nodemon": "^3.1.9"
+  }
+}
